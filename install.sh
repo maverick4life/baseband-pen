@@ -12,3 +12,4 @@ git clone https://github.com/leebaird/discover ~/discover/
 sudo cp -R ~/discover/ /opt/
 sudo /opt/discover/update.sh
 touch ~/discover.installed-at-opt-discover
+sudo apt-get install openvas -y
